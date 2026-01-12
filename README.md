@@ -1,6 +1,6 @@
 # Mercury Converter (Desktop Prototype)
 
-> *"Consider this project the **'ancestor'** of my current Mercury Converter Android App. It’s where the core ideas and logic were first coded before migrating to mobile."*
+> *"Consider this project as the **'ancestor'** of my current Mercury Converter Android App. It’s where the core ideas and logic were first coded before migrating to mobile."*
 
 ### About
 This is a Java Swing application designed to download and convert YouTube videos to MP3 format directly on your desktop. It acts as a GUI wrapper around the powerful `yt-dlp` tool.
