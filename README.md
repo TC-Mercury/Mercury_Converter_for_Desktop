@@ -29,4 +29,4 @@ Since this is a lightweight wrapper, it relies on `yt-dlp.exe` for the actual do
 4.  Once "Completed", click the **"File"** button to instantly open the destination folder.
 
 ---
-*Note: This repository is archived to demonstrate the desktop origins of the MercuryConverter project.*
+*Note: This repository is archived to demonstrate the desktop origins of the Mercury Converter project.*
