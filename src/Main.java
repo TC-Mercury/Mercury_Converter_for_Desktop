@@ -132,7 +132,7 @@ public class Main extends JFrame {
 
             String outputTemplate = mercuryDir.getAbsolutePath() + "\\%(title)s.%(ext)s";
 
-            // Process'i yeni bir Thread'de çalıştır (UI donmasını engellemek için)
+            // Execute the process with a new thread (To prevent UI freezing)
             new Thread(() -> {
                 try {
                     SwingUtilities.invokeLater(() -> {
